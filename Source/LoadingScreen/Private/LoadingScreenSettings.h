@@ -4,10 +4,9 @@
 
 #include "CoreMinimal.h"
 #include "Fonts/SlateFontInfo.h"
-#include "SScaleBox.h"
 #include "MoviePlayer.h"
 #include "Engine/DeveloperSettings.h"
-
+#include "Widgets/Layout/SScaleBox.h"
 #include "LoadingScreenSettings.generated.h"
 
 USTRUCT(BlueprintType)
